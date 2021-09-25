@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @EliInskeep
 - 👀 I’m interested in becoming a front end developer.
-- 🌱 I’m currently learning HTML, CSS, JS, jQuery, and React.
+- 🌱 My current skills are HTML, CSS, JavaScript, jQuery, and React.
 - 📫 How to reach me Eliinskeep@hotmail.com
 
 <!---
