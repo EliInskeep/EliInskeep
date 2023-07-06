@@ -1,5 +1,5 @@
 - Hi, I’m @EliInskeep
-- HTML, CSS, JavaScript, jQuery, React, Node.js, Express, and MondoDB.
+- HTML, CSS, JavaScript, jQuery, React, Node.js.
 - How to reach me Eliinskeep@hotmail.com
 
 <!---
